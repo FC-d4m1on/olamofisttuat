@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'janabank-live'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28DBE5A5C45D46B0A1802AE7070EEBC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08D1F786FDD4439B9681C02675A96D8F }}
